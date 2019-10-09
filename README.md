@@ -15,11 +15,11 @@ Repo  : https://github.com/carlosgub/MLKit-Face-Example
 
 
 ## Álbum de fotos del MeetUp
-https://www.facebook.com/media/set/?set=oa.2689682537714585&type=3
+https://www.meetup.com/Firebase-Peru/photos/29667883/478420786/
 
 ## Sponsors
 
-- UTEC Ventures
+- Belatrix
 
 ## Grupo en Facebook 
 
