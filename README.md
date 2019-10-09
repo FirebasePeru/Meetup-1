@@ -1,26 +1,13 @@
-# Meetup-22
-Chat W/ Firestore - Machine Learning Zero to Hero - Actions on Google Serverless for your bots with Firebase Cloud Functions
+# Meetup #1
+ML Kit - Face Contours
 
 ## Charlas :
 
-- **Realtime Chat W/ Firestore - Carlos Ugaz**
+- **ML Kit - Face Contours - Carlos Ugaz**
 
-Slide : https://docs.google.com/presentation/d/1Tq6_BM0XpNMrsiTkXTdGfu2uIxpKb7pxIhzvqw7BGEU/edit?usp=sharing
+Slide : https://docs.google.com/presentation/d/1oTDPgqopAIK0tEC0OAKpX_40DADPgYO_D5Qj-6AYAag/edit
 
-Repo  : https://github.com/carlosgub/RealtimeChatFirestore_MVVM_Clean_Koin
-
-
-- **Best practices with Flutter and Firestore - Diego Velasquez**
-
-Slide : https://docs.google.com/presentation/d/1U3pUCzLI2phF4XaIqQR0h5DUMua6cmJDzQEkvR2KH6Y/edit?usp=sharing
-
-Repo  : https://github.com/diegoveloper/flutter_codelabs/tree/master/flutter_codelab_4
-
-- **Actions on Google Serverless for your bots with Firebase Cloud Functions - Carlo Renzo**
-
-Slide : https://docs.google.com/presentation/d/1nTwtU8OWYs_8Q3i_3hOPAWodDpDKzO--uA-4b6LUr8g/edit?usp=sharing
-
-Repo  : https://github.com/emedinaa/kotlin-mvvm
+Repo  : https://github.com/carlosgub/MLKit-Face-Example
 
 
 ## Organización 
